@@ -66,12 +66,3 @@ Serenada is a comprehensive database system designed for a music streaming appli
 3. Albums must have an associated artist
 4. Playlists are owned by individual users
 5. Subscription payments are linked to user accounts
-
-## Setup Instructions
-
-1. Import the database schema using the provided SQL scripts
-2. Configure the connection string in `app.config`:
-   ```xml
-   <connectionStrings>
-     <add name="serenada" connectionString="Server=your_server;Database=serenada_db;Uid=username;Pwd=password;"/>
-   </connectionStrings>
