@@ -1,10 +1,10 @@
 # Serenada - Music Streaming Database
 
-![Database Schema](modelSerenada.png) <!-- Use your schema image here -->
-
 ## Project Description
 
 Serenada is a comprehensive database system designed for a music streaming application. It provides users with the ability to search, stream, and organize music content while supporting artist discovery, playlist creation, and personalized music experiences.
+
+![Database Schema](modelSerenada.png) <!-- Use your schema image here -->
 
 ## Key Features
 
